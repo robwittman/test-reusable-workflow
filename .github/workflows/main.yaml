@@ -1,0 +1,7 @@
+on:
+  push:
+    branches: main
+
+jobs:
+  docker-main-workflow:
+    uses: robwittman/workflows/.github/workflows/docker.yml@main
