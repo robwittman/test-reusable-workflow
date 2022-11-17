@@ -4,4 +4,4 @@ on:
 
 jobs:
   docker-main-workflow:
-    uses: robwittman/workflows/.github/workflows/docker.yml@main
+    uses: robwittman/workflows/.github/workflows/docker.yaml@main
